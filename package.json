@@ -1,0 +1,17 @@
+{
+	"name": "spiri",
+	"version": "0.0.1",
+	"description": "spiri",
+	"main": "",
+	"repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/spirijs/spiri.git"
+	},
+	"author": "Sergey T <spirijs@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+	  "url": "https://github.com/spirijs/spiri/issues"
+	},
+	"homepage": "https://github.com/spirijs/spiri#readme"
+  }
+  
